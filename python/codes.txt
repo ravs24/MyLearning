@@ -1,0 +1,9 @@
+list2.append()
+
+tuples cannot be changed. It should be converted to list
+
+list =[]
+tuple = ()
+dict = {}
+
+a= int(input ())
