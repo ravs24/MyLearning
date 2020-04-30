@@ -1,0 +1,40 @@
+#This is introductory example
+import sys
+
+#a = int(input("Enter first number\n"))
+#b = int(input("Enter second number\n"))
+#c=a*b
+#print("The output is",c)
+
+#First exercise
+#print("Twinkle, twinkle, little star,\n"+"       "+ "How I wonder what you are!\n" +"       "+"Up above the world so high,\n"+"       "+"Like a diamond in the sky.\n Twinkle, twinkle, little star,\n How I wonder what you are\n")
+
+#a = int(input("Enter your fav number\n"))
+
+#if a>50:
+  #print("I like this condition")
+#else:
+ #   print("get lost")
+
+#v = float(input("Enter the \n"))
+#i = float(input("Enter the current\n"))
+#r = (v/i)
+#print("The resistance is : ",r)
+
+#if v>250:
+ #   print("Overvoltage")
+#else:
+#    print("sab acha hai")
+print("Enter 1 for yes and 0 for no\n")
+a = int (input("Did u use washing machine\n"))
+b = int (input("Did u use more lighting\n"))
+c = int (input("Did u use backoven\n"))
+
+if a+b+c>=1:
+    print("Do not use dishwasher")
+else:
+    print("Chalne do")
+
+
+
+
